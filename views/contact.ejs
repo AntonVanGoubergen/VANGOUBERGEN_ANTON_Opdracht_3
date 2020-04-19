@@ -1,0 +1,25 @@
+<%- include('header'); %>
+
+<p id="contactp"> Ons Museum gelegen in Antwerpen bij de Haarstraat 22. We hebben een rijke collectie met verschillende interessante kunststijlen. Met deze handige app kan je gemakkelijk al een voorproefje krijgen van ons museum maar kan hem ook gebruiken als leidraad als u een rondleiding komt volgen. </p>
+
+<h1 class="contact">Contacteer ons</h1>
+<p id="contact"> heeft u vraag? Aarzel dan niet om ons te contacteren</p>
+
+<div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">Voornaam</label>
+    <input type="text" id="fname" name="Voornaam" placeholder="...">
+
+    <label for="lname">Achternaam</label>
+    <input type="text" id="lname" name="Achternaal" placeholder="...">
+
+    <label for="subject">Onderwerp</label>
+    <textarea id="subject" name="Onderwerp" placeholder="..." style="height:200px"></textarea>
+
+    <input type="submit" value="Verzend">
+
+  </form>
+</div>
+
+<%- include('footer'); %>

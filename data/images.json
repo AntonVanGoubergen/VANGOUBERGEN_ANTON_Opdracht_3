@@ -1,0 +1,104 @@
+{
+  "images": [
+    {
+      "title": "Maturing sun",
+      "artist": "Peter Graham",
+      "period": "1995",
+      "img": "/images/maturing-sun.jpg",
+      "classes": "Modernekunst",
+      "alt": "Foto1",
+      "description": "Modernistisch schilderij door Peter Graham"
+    },
+    {
+      "title": "Reflections",
+      "artist": "Peter Graham",
+      "period": "2002",
+      "img": "/images/Reflections.jpg",
+      "classes": "Modernekunst",
+      "alt": "Foto2",
+      "description": "Modernistisch schilderij door Peter Graham"
+    },
+    {
+      "title": "Zwei Männer in Betrachtung des Mondes",
+      "artist": "Caspar David Friedrich",
+      "period": "1810",
+      "img": "/images/Caspar_David_Friedrich_-_Zwei_Männer_in_Betrachtung_des_Mondes.jpg",
+      "classes": "Romantisch",
+      "alt": "Foto3",
+      "description": "Romantisch schilderij door Caspar David Friedrich"
+    },
+    {
+      "title": "Der Abend",
+      "artist": "Caspar David Friedrich",
+      "period": "1821",
+      "img": "/images/Caspar_David_Friedrich_-_Tageszeitenzyklus,_Der_Abend_(1821-22).jpg",
+      "classes": "Romantisch",
+      "alt": "Foto4",
+      "description": "Romantisch schilderij door Caspar David Friedrich"
+    },
+    {
+      "title": "WE ARE (S)(F)AILING",
+      "artist": "Goetz Valien",
+      "period": "2007",
+      "img": "/images/We_are_sfailing.jpg",
+      "classes": "Figuratief",
+      "alt": "Foto5",
+      "description": "Figuratief schilderij door Goetz Valien"
+    },
+    {
+      "title": "HABEN + SEIN",
+      "artist": "Goetz Valien",
+      "period": "2005",
+      "img": "/images/HABEN_SEIN.jpg",
+      "classes": "Figuratief",
+      "alt": "Foto6",
+      "description": "Figuratief schilderij door Goetz Valien"
+    },
+    {
+      "title": "Knotwilgen bij zonsondergang",
+      "artist": "Vincent van Gogh",
+      "period": "1888",
+      "img": "/images/Willows_at_Sunset_1888_Vincent_van_Gogh.jpg",
+      "classes": "Impressionisme",
+      "alt": "Foto7",
+      "description": "Impressionistisch schilderij door Vincent van Gogh"
+    },
+    {
+      "title": "De wandelaar boven de nevelen",
+      "artist": "Caspar David Friedrich",
+      "period": "1817",
+      "img": "/images/Wanderer_above_the_sea_of_fog.jpg",
+      "classes": "Romantisch",
+      "alt": "Foto8",
+      "description": "Romantisch schilderij door Caspar David Friedrich"
+    },
+    {
+      "title": "De boekenwurm",
+      "artist": "Carl Spitzweg",
+      "period": "1850",
+      "img": "/images/de_boekenwurm.jpg",
+      "classes": "Biedermeier",
+      "alt": "Foto9",
+      "description": "Schilderij in de biedermeier stijl door Carl Spitzweg"
+    },
+    {
+      "title": "Die Parkett Hobler",
+      "artist": "Gustave Caillebotte",
+      "period": "1875",
+      "img": "/images/Die_Parkett_Hobler.jpg",
+      "classes": "Impressionisme",
+      "alt": "Foto10",
+      "description": "Impressionistisch schilderij door Gustave Caillebotte"
+    },
+    {
+      "title": "Women, Children, Animals",
+      "artist": "Karel Appel",
+      "period": "1913",
+      "img": "/images/Corneille-vogels-ASH.jpg",
+      "classes": "Cobra",
+      "alt": "Foto11",
+      "description": "Schilderij in de cobra kunststijl van Karel Appel"
+    }
+
+  ]
+}

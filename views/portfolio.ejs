@@ -1,0 +1,30 @@
+<%- include('header'); %>
+
+<p id="info"> Bekijk hier enkele van de vele werken die zijn te bezichtigen in het museum. U kan per kunststroming filteren. </p>
+
+<div class="button-group filters-button-group">
+  <button class="button is-checked" data-filter="*">show all</button>
+  <button class="button" data-filter=".Modernekunst">Moderne kunst</button>
+  <button class="button" data-filter=".Romantisch">Romantisch</button>
+  <button class="button" data-filter=".Figuratief">Figuratief</button>
+  <button class="button" data-filter=".Impressionisme">Impressionisme</button>
+  <button class="button" data-filter=".Cobra">Cobra</button>
+</div>
+
+
+<div class="grid">
+  <% for(let i=0; i < images.length; i++) { %>
+    <div class="grid-item <%=images[i].classes%>">
+      <h3 class="title"><%=images[i].title%></h3>
+      <img src="<%=images[i].img%>" alt="<%=images[i].alt%>"></img>
+      <p class="artist"><%=images[i].artist%></p>
+      <p class="date"><%=images[i].date%></p>
+      <p class="period"><%=images[i].period%></p>
+      <p class="description"><%=images[i].description%></p>
+      <a href="/detail">Bekijk hier de detailpagina van dit werk <a>
+    </div>
+  <% } %>
+</div>
+
+
+<%- include('footer'); %>
